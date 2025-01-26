@@ -1,5 +1,11 @@
 body {
-    background-color: lightblue;  
+    background-color: lightgreen;  
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
 }
 .center {
     display: block;
